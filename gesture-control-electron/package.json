@@ -1,0 +1,12 @@
+{
+  "name": "gesture-control-electron",
+  "version": "0.1.0",
+  "description": "Gesture control application using Electron and Python",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^25.2.1"
+  }
+}
