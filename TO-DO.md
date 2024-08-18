@@ -1,3 +1,6 @@
+Use this for css:
+https://github.com/Jeweleni/openai-summarizer 
+
 Here are several gesture ideas that are simple, intuitive, and can be detected robustly with the camera:
 
 ### 1. **Swipe Gestures (Horizontal and Vertical Swipes)**:
